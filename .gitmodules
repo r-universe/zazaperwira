@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "msaeDB"]
+	path = msaeDB
+	url = https://github.com/zazaperwira/msaedb
+	shallow = true
+	registered = true
+[submodule "saeHB"]
+	path = saeHB
+	url = https://github.com/zazaperwira/saehb
+	shallow = true
+	registered = true

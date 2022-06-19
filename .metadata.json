@@ -1,0 +1,10 @@
+[
+  {
+    "package": "msaeDB",
+    "oncran": true
+  },
+  {
+    "package": "saeHB",
+    "oncran": true
+  }
+]
